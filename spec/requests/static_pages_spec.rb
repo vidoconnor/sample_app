@@ -1,3 +1,4 @@
+
 require 'spec_helper'
 
 describe "Static pages" do
@@ -10,4 +11,4 @@ describe "Static pages" do
     end
   end
 end
-
+end-of-input
