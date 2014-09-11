@@ -10,5 +10,5 @@ describe "Static pages" do
       expect(page).to have_content('Sample App')
     end
   end
-end
+
 end-of-input
